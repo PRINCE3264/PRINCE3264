@@ -1,6 +1,6 @@
-About Me
-## Hi  👋, I'm Prince Kumar Vidyarthi
+## 👨‍💻 About Me
 
+Hi 👋, I'm PRINCE VIDYARTHI , a passionate Full Stack Developer from India.
 
 
 ## 🌐 Socials:
