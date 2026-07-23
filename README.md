@@ -8,7 +8,7 @@
 - 🤖 AI Chatbot
 - 📱 WhatsApp Integration
 - 📞 Voice AI
-- ☁️ Docker & Kubernetes
+- ☁️ SMS
 - 🔥 ASP.NET Core + Angular Projects
 - 🌱 Always exploring new technologies and improving my development skills.
 - 📫 Reach me at: princekumarvidyarthi4@gmail.com
