@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-## Hi 👋, I'm PRINCE VIDYARTHI, a passionate Full Stack Developer from India.
+# Hi 👋, I'm PRINCE VIDYARTHI, a passionate Full Stack Developer from India.
 
 - 💼 Software Developer Intern at Envision Beyond India Pvt. Ltd.
 - 💻 Experienced in ASP.NET Core, Angular, C#, PostgreSQL, and REST APIs.
