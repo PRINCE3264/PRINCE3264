@@ -1,4 +1,4 @@
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 # Hi 👋, I'm PRINCE VIDYARTHI, a passionate Full Stack Developer from India.
 
