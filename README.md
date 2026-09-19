@@ -5,10 +5,7 @@
 - 💼 Software Developer Intern at Envision Beyond India Pvt. Ltd.
 - 💻 Experienced in ASP.NET Core, Angular, C#, PostgreSQL, and REST APIs.
   ## 🚀 Currently Working On
-- 🤖 AI Chatbot
-- 📱 WhatsApp Integration
-- 📞 Voice AI
-- ☁️ SMS
+- 🤖 HRMS
 - 🔥 ASP.NET Core + Angular Projects
 - 🌱 Always exploring new technologies and improving my development skills.
 - 📫 Reach me at: princekumarvidyarthi4@gmail.com
